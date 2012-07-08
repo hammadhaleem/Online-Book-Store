@@ -1,0 +1,52 @@
+﻿/**
+ * jQuery "Fancy Countdown" Plugin
+ * 
+ * @name jquery-fancyCountdown-1.0.1.js
+ * @author Sarpdoruk TAHMAZ - http://www.sarpdoruktahmaz.com
+ * @version 1.0.1
+ * @date April 20, 2011
+ * @category jQuery Plugin Widget
+ * @copyright (c) 2011 Sarpdoruk TAHMAZ (sarpdoruktahmaz.com)
+ * @license GNU - GENERAL PUBLIC LICENSE - https://github.com/jquery/jquery/blob/master/GPL-LICENSE.txt
+ * @info Visit http://www.sarpdoruktahmaz.com/projects/fancy-countdown for more info
+ * @Special thanks to Onat ÇELMEN http://www.onatcelmen.com for the plugin idea
+**/
+ 
+BODY {
+	background-color:#EEE;
+}
+ 
+#myDiv {
+	position:relative;
+	vertical-align:middle;
+}
+
+#d1, #d2, #h1, #m1, #s1 {
+	position:relative;
+	margin-right:10px;
+}
+
+#d3, #h2, #m2, #s2 {
+	position:relative;
+	margin-right:30px;
+}
+
+#fancy-countdown {
+	text-align:center;
+	font-family:"Tahoma";
+	font-variant:small-caps;
+	font-size:24px;	
+}
+
+#timeReached {
+	color:#6C0;
+	background-color:#333;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:60px;	
+}
+
+p.top{
+	font-size: 26pt; line-height: 115%; font-family: Vivaldi; color: black;	
+	text-align:center;
+	}
+	

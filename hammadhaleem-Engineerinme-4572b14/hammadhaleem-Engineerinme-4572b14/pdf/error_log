@@ -1,0 +1,51 @@
+[08-Jul-2011 13:40:40] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/jmifetco/engineerinme.com/books/pdf/readme.php on line 104
+[08-Jul-2011 14:07:06] PHP Notice:  Undefined index:  user in /home/jmifetco/engineerinme.com/books/pdf/readme.php on line 105
+[08-Jul-2011 14:07:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:105) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1916
+[08-Jul-2011 14:07:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:105) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1917
+[08-Jul-2011 14:07:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:105) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1919
+[08-Jul-2011 14:08:21] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/jmifetco/engineerinme.com/books/pdf/readme.php on line 22
+[08-Jul-2011 14:08:37] PHP Notice:  Undefined index:  user in /home/jmifetco/engineerinme.com/books/pdf/readme.php on line 21
+[08-Jul-2011 14:08:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1916
+[08-Jul-2011 14:08:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1917
+[08-Jul-2011 14:08:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1919
+[08-Jul-2011 14:09:20] PHP Notice:  Undefined index:  user in /home/jmifetco/engineerinme.com/books/pdf/readme.php on line 21
+[08-Jul-2011 14:09:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1916
+[08-Jul-2011 14:09:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1917
+[08-Jul-2011 14:09:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1919
+[08-Jul-2011 15:04:56] PHP Notice:  Undefined index:  user in /home/jmifetco/engineerinme.com/books/pdf/readme.php on line 21
+[08-Jul-2011 15:04:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1916
+[08-Jul-2011 15:04:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1917
+[08-Jul-2011 15:04:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1919
+[08-Jul-2011 15:06:10] PHP Notice:  Undefined index:  user in /home/jmifetco/engineerinme.com/books/pdf/readme.php on line 21
+[08-Jul-2011 15:06:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1916
+[08-Jul-2011 15:06:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1917
+[08-Jul-2011 15:06:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1919
+[08-Jul-2011 23:25:43] PHP Notice:  Undefined index:  user in /home/jmifetco/engineerinme.com/books/pdf/readme.php on line 21
+[08-Jul-2011 23:25:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1916
+[08-Jul-2011 23:25:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1917
+[08-Jul-2011 23:25:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1919
+[10-Jul-2011 00:13:36] PHP Notice:  Undefined index:  user in /home/jmifetco/engineerinme.com/books/pdf/readme.php on line 21
+[10-Jul-2011 00:13:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1916
+[10-Jul-2011 00:13:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1917
+[10-Jul-2011 00:13:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1919
+[10-Jul-2011 00:13:45] PHP Notice:  Undefined index:  user in /home/jmifetco/engineerinme.com/books/pdf/readme.php on line 21
+[10-Jul-2011 00:13:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1916
+[10-Jul-2011 00:13:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1917
+[10-Jul-2011 00:13:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmifetco/engineerinme.com/books/pdf/readme.php:21) in /home/jmifetco/engineerinme.com/books/pdf/class.pdf.php on line 1919
+[10-Jul-2011 07:30:08] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 105
+[10-Jul-2011 07:35:23] PHP Parse error:  syntax error, unexpected '}' in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 119
+[10-Jul-2011 08:26:47] PHP Notice:  Undefined index:  user in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 21
+[10-Jul-2011 12:13:19] PHP Notice:  Undefined index:  user in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 21
+[10-Jul-2011 12:13:22] PHP Notice:  Undefined index:  bookname in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 102
+[10-Jul-2011 12:13:22] PHP Notice:  Undefined index:  bookcost in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 104
+[10-Jul-2011 12:19:16] PHP Notice:  Undefined index:  user in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 21
+[10-Jul-2011 12:19:16] PHP Notice:  Undefined index:  bookname in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 102
+[10-Jul-2011 12:19:16] PHP Notice:  Undefined index:  bookcost in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 104
+[12-Jul-2011 06:00:14] PHP Notice:  Undefined index:  bookname in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 102
+[12-Jul-2011 06:00:14] PHP Notice:  Undefined index:  bookcost in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 104
+[17-Jul-2011 03:29:30] PHP Notice:  Undefined index:  bookname in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 102
+[17-Jul-2011 03:29:30] PHP Notice:  Undefined index:  bookcost in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 104
+[17-Jul-2011 03:33:08] PHP Notice:  Undefined index:  bookname in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 102
+[17-Jul-2011 03:33:08] PHP Notice:  Undefined index:  bookcost in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 104
+[17-Jul-2011 03:34:16] PHP Notice:  Undefined index:  bookname in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 102
+[17-Jul-2011 03:34:16] PHP Notice:  Undefined index:  bookcost in /home/jmifetco/engineerinme.com/books/pdf/invoice.php on line 104

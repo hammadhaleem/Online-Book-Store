@@ -1,0 +1,9 @@
+user-agent:*
+Disallow:/includes/
+Disallow:/install/
+Disallow:/checkandreg.php
+Disallow:/checkbook.php
+Disallow:/logout.php
+Disallow:/table-struct.txt
+Disallow:/user.sql
+Disallow:/error-log/

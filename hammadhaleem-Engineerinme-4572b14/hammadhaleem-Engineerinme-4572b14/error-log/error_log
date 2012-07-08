@@ -1,0 +1,2 @@
+[11-Jul-2011 06:00:03] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (08004/1040): Too many connections in /home/jmifetco/engineerinme.com/books/includes/incl_user.php on line 2
+[17-Jul-2011 03:42:09] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmifetco/engineerinme.com/books/error-log/index.php on line 73

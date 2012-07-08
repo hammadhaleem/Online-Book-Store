@@ -1,0 +1,33 @@
+Table Strucutre--->
+	Table 1-->
+		User Data-->
+			-->S No(sno)
+			-->UserName(username)
+			-->FirstName(firstname)
+			-->LastName(lastname)
+			-->Password(encrypted) (pwd)
+			-->email-id(email-id)
+			-->Phone Number(phone)
+			-->college (college)
+			-->Address-->
+				-->Line1(adr-line1)
+				-->Line2 (optional) (adr-line2)
+				-->City(adr-city)
+				-->State(adr-city)
+				-->Countary(India, for Now) (adr-coun)
+			-->Number of Books to Sold (nobs)
+
+	Table 2-->
+		Books Data-->
+			-->UserName(from Table1)
+			-->BookUid(book_id)
+			-->NameOfBook(bookname)
+			-->AuthorName(authorsname)
+			-->edition(edition)
+			-->Conditon(condition)
+			-->Expected Price(price)
+			-->Field(from table 3)
+			-->Subject(subject)
+			-->year(year)
+			-->Pic(scheduled-for-gamma-version)
+			
